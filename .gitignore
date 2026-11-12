@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+employee_roster.csv
+*.csv
+.DS_Store
+.env
+EOF
