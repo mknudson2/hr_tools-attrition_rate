@@ -4,4 +4,3 @@ employee_roster.csv
 *.csv
 .DS_Store
 .env
-EOF
